@@ -1,2 +1,2 @@
-# Under developmnt
+# Under development
 
