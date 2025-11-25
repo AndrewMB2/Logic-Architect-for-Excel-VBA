@@ -20,3 +20,13 @@ The main features are:
 
 Get and Transform in Excel is frequently used to transform data and provides a user interface. If Get and Transform needs to form part of a VBA application, queries can be run from VBA, but if they need to be altered this requires editing the M code created by the Get and Transform user interface. Also it does not use Excel formulae for calculation or allow VBA access to individual records. Logic Architect provides most of the transformations which are required in practice in a way which is easier to use in VBA, more flexible and frequently faster.
 
+The Wiki contains the documentation for the system. 
+
+There are four sections:
+
+1. Introduction.
+2. Installation.
+3. How To. This explains the capabilities of the system and how to use it.
+4. Property and Method Reference. This is in alphabetic sequence.
+
+It is recommended to read the first three sections to gain an understanding of what the system offers.
