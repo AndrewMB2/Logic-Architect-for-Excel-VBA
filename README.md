@@ -30,3 +30,7 @@ There are four sections:
 4. Property and Method Reference. This is in alphabetic sequence.
 
 It is recommended to read the first three sections to gain an understanding of what the system offers.
+
+For more information on the use of this toolset please see [the LogicArchitect website](https://logicarchitect.co.uk/index.htm).
+
+
