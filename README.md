@@ -1,4 +1,4 @@
-Logic Architect for Excel/VBA is a toolset for manipulating tabular data efficiently in Excel VBA which greatly simplifies project development. It has been developed over several years and used on a large number of project, but is newly loaded to GitHub (November 2025).
+Logic Architect for Excel/VBA is a toolset for manipulating tabular data efficiently in Excel VBA which greatly simplifies project development. It has been developed over several years and used on a large number of projects, but is newly loaded to GitHub (November 2025).
 
 The main features are:
 
