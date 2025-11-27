@@ -27,7 +27,7 @@ There are four sections:
 
 It is recommended to read the first three sections to gain an understanding of what the system offers.
 
-There is also a demo program - originally this was a get and Transform 'challenge', but provides a good demonstration of how this type of data transformation can be carried out straightforwardly using the Logic Architect system.
+There is also a demo program - originally this was a Get and Transform 'challenge', but provides a good demonstration of how this type of data transformation can be carried out straightforwardly using the Logic Architect system.
 
 For more information on the use of this toolset please see [the LogicArchitect website](https://logicarchitect.co.uk/index.htm).
 
