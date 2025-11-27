@@ -1,4 +1,6 @@
-Logic Architect for Excel/VBA is a toolset for manipulating tabular data efficiently in Excel VBA which greatly simplifies project development. It can be used with:
+Logic Architect for Excel/VBA is a toolset for manipulating tabular data efficiently in Excel VBA which greatly simplifies project development. It has been developed over several years and used on a large number of project, but is newly loaded to GitHub (November 2025).
+
+It can be used with:
 
 - Data on worksheets, whether organised as a table or not.
 - Databases.
@@ -30,6 +32,8 @@ There are four sections:
 4. Property and Method Reference. This is in alphabetic sequence.
 
 It is recommended to read the first three sections to gain an understanding of what the system offers.
+
+There is also a demo program - originally this was a get and Transform 'challenge', but provides a good demonstration of how this type of data transformation can be carried out straightforwardly using the Logic Architect system.
 
 For more information on the use of this toolset please see [the LogicArchitect website](https://logicarchitect.co.uk/index.htm).
 
