@@ -1,16 +1,10 @@
 Logic Architect for Excel/VBA is a toolset for manipulating tabular data efficiently in Excel VBA which greatly simplifies project development. It has been developed over several years and used on a large number of project, but is newly loaded to GitHub (November 2025).
 
-It can be used with:
-
-- Data on worksheets, whether organised as a table or not.
-- Databases.
-- Virtual tables, which store data within VBA.
-
 The main features are:
 
 - There are extensive facilities for manipulating data on worksheets
 - Databases can be created, maintained (including adding new tables) and queried with SQL with simple programming.
-- There is a wide range of data transformations.
+- There is a wide range of data transformations using virtual tables, which store data within VBA.
 - There is a full object model for use in VBA where parameters are easy to change.
 - Methods can be called individually so can be placed where required in VBA code.
 - In addition to high level procedures (such as left join, unpivot, etc.) access is also provided to individual records and fields.
