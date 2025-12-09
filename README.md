@@ -29,7 +29,7 @@ It is recommended to read the first three sections to gain an understanding of w
 
 There is also a demo program - originally this was a Get and Transform 'challenge', but provides a good demonstration of how this type of data transformation can be carried out straightforwardly using the Logic Architect system.
 
-The system is written for Windows, most of it can be used on a Mac but there are limitations - please see the [Introduction](01-Introduction#introduction) for more information.
+The system is written for Windows, most of it can be used on a Mac but there are limitations - please see the [Introduction](https://github.com/AndrewMB2/Logic-Architect-for-Excel-VBA/wiki/01-Introduction#introduction) for more information.
 
 For more information on the use of this toolset please see [the LogicArchitect website](https://logicarchitect.co.uk/index.htm).
 
